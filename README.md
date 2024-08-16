@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm FrAnK</h1>
-<h3 align="center">Pc Developer | @ Im lead the way</h3>
+<h3 align="center">Pc Developer | Im lead the Way</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=xxfrank&label=Profile%20views&color=0e75b6&style=flat" alt="xxfrank" />
 		   <img src="https://img.shields.io/github/followers/xxfrank?label=Followers" alt="xxfrank" />
