@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm FrAnK</h1>
 <h3 align="center">Pc Developer | @ Im lead the way</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=manarshahin48&label=Profile%20views&color=0e75b6&style=flat" alt="XxFrAnK" />
-		   <img src="https://img.shields.io/github/followers/manarshahin48?label=Followers" alt="manarshahin48" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=xxfrank&label=Profile%20views&color=0e75b6&style=flat" alt="xxfrank" />
+		   <img src="https://img.shields.io/github/followers/manarshahin48?label=Followers" alt="xxfrank" />
 </p>
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
@@ -41,8 +41,8 @@
   <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="manarshahin48's Github Stats" src="https://github-readme-stats.vercel.app/api?username=manarshahin48&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manarshahin48&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="XxFrAnK" height="230px"/>
+	    <img alt="manarshahin48's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xxfrank&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xxfrank&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="xxfrank" height="230px"/>
 <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
