@@ -37,7 +37,7 @@
 </p>
 
 ## 📊 Github Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=manarshahin48&theme=tokyonight_duo" alt="XxFrAnK" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=xxfrank&theme=tokyonight_duo" alt="XxFrAnK" /></p>
   <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
