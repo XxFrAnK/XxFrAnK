@@ -7,9 +7,9 @@
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
-- :school: I am a `Computer Science Fresh Graduate` from the Faculty of Computers & Information at Suez University
-- 🔭 I’m currently working at [Etisalat Iraq](https://www.linkedin.com/company/etisalat-iraq/)
-- 🌱 I’m currently studying `Flutter` and `iOS`
+- :school: I am a `Computer engineer Fresh Graduate` from the Faculty of Computers & Information at Al-Turath University
+- 🔭 I’m currently working at [code4iraq](https://www.linkedin.com/company/etisalat-iraq/)
+- 🌱 I’m currently studying `API` and `C#`
 - 📫 How to reach me **frankdevelperiq@gmail.com**
 - :nerd_face: Always `learning new things`
 - 🐼 Doing my best 
